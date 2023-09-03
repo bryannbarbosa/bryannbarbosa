@@ -7,7 +7,7 @@ A passionate problem solver that live in in São José dos Campos, SP, Brazil. W
 - 💼 I'm currently working as a Staff Engineer at EASYB2B.
 - 📚 I have a degree in systems analysis and development at SENAC.
 - 📚 I'm also a philosophy student in at CEUCLAR.
-- 💡 I'm enthusiastic about Logic, Epistemology, Mathematics, Computer Science and so on.
+- 💡 I'm enthusiastic about logic, epistemology, mathematics, computer Science and so on.
 - ⚡ I like to practice physical activities such as weight training and cardio.
 
 ## My Tech Stack
