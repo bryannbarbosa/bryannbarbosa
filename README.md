@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Bryann!
 
-A passionate problem solver based in São José dos Campos, SP, Brazil. Welcome to my GitHub profile! 🚀
+A passionate problem solver that live in in São José dos Campos, SP, Brazil. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
@@ -12,9 +12,6 @@ A passionate problem solver based in São José dos Campos, SP, Brazil. Welcome 
 ## My Tech Stack
 
 - 🖥️ Technologies:
-
-<details>
-<summary>Click to Expand</summary>
 
 - **Languages**:
   - JavaScript (Node)
@@ -28,6 +25,15 @@ A passionate problem solver based in São José dos Campos, SP, Brazil. Welcome 
   - Next.js
   - Astro.js
   - Tailwind, Bootstrap & Material UI
+
+- **Frameworks and Libraries**:
+  - Serverless Framework
+  - Nest.js
+  - Adonis.js
+  - Express.js
+
+<details>
+<summary>See more!</summary>
 
 - **Databases**:
   - PostgreSQL
@@ -65,12 +71,6 @@ A passionate problem solver based in São José dos Campos, SP, Brazil. Welcome 
   **Cloud Services**:
   - MongoDB Atlas Serverless and Dedicated Clusters
   - Serverless Kafka in Upstash
-
-- **Frameworks and Libraries**:
-  - Serverless Framework
-  - Nest.js
-  - Adonis.js
-  - Express.js
 
 - **DevOps and Tools**:
   - Kubernetes
