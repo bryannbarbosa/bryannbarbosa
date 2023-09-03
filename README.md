@@ -22,8 +22,9 @@ A passionate problem solver that live in in São José dos Campos, SP, Brazil. W
   - C++
 
 - **Web Development**:
-  - Next.js
-  - Astro.js
+  - Next
+  - Remix
+  - Astro
   - Tailwind, Bootstrap & Material UI
 
 - **Frameworks and Libraries**:
