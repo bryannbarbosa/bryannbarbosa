@@ -5,7 +5,8 @@ A passionate problem solver that live in in São José dos Campos, SP, Brazil. W
 ## About Me
 
 - 💼 I'm currently working as a Staff Engineer at EASYB2B.
-- 📚 I'm also a Philosophy student in at CEUCLAR.
+- 📚 I have a degree in systems analysis and development at SENAC.
+- 📚 I'm also a philosophy student in at CEUCLAR.
 - 💡 I'm enthusiastic about Logic, Epistemology, Mathematics, Computer Science and so on.
 - ⚡ I like to practice physical activities such as weight training and cardio.
 
@@ -22,9 +23,11 @@ A passionate problem solver that live in in São José dos Campos, SP, Brazil. W
   - C++
 
 - **Web Development**:
-  - Next
-  - Remix
-  - Astro
+  - Next.js
+  - Remix.js
+  - Astro.js
+  - Nuxt.js
+  - AngularJS
   - Tailwind, Bootstrap & Material UI
 
 - **Frameworks and Libraries**:
@@ -32,6 +35,10 @@ A passionate problem solver that live in in São José dos Campos, SP, Brazil. W
   - Nest.js
   - Adonis.js
   - Express.js
+  - Rails
+  - Flask
+  - Django
+  - Beego
 
 <details>
 <summary>See more!</summary>
@@ -39,9 +46,11 @@ A passionate problem solver that live in in São José dos Campos, SP, Brazil. W
 - **Databases**:
   - PostgreSQL
   - MongoDB
+  - DynamoDB
   - Neo4j
   - Redis
   - Cassandra
+  - FireStore
 
 - **Amazon Web Services**:
   - EC2
@@ -67,7 +76,7 @@ A passionate problem solver that live in in São José dos Campos, SP, Brazil. W
   - Cloud Functions
   - FireStore
   - Pub/Sub
-  - VertexIA
+  - Vertex AI
 
   **Cloud Services**:
   - MongoDB Atlas Serverless and Dedicated Clusters
@@ -77,6 +86,9 @@ A passionate problem solver that live in in São José dos Campos, SP, Brazil. W
   - Kubernetes
   - Docker
   - Podman
+  - Bitbucket Pipelines
+  - Github Actions
+  - Jenkins
 
 </details>
 
