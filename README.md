@@ -19,7 +19,7 @@ A passionate problem solver that live in in São José dos Campos, SP, Brazil. W
   - Ruby
   - Python
   - Go
-  - Rust
+  - Elixir
   - C++
 
 - **Web Development**:
@@ -38,6 +38,7 @@ A passionate problem solver that live in in São José dos Campos, SP, Brazil. W
   - Rails
   - Flask
   - Django
+  - Phoenix
   - Beego
 
 <details>
